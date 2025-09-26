@@ -31,7 +31,7 @@ Aplicação de livros digitais de programação.
 - Ideal para autodidatas que gostam de aprender lendo  
 
 🖼️ **Preview da Aplicação:**  
-![Flutter Banner](https://i.ibb.co/kVyH3CvC/3.png) 
+![Flutter Banner](https://i.ibb.co/jkgkLn3g/4.png) 
 
 ---
 
@@ -57,7 +57,7 @@ Aplicação de **educação financeira** que ensina como gerenciar melhor as fin
 - Promove o uso consciente e estratégico do dinheiro  
 
 🖼️ **Preview da Aplicação:**  
-![Flutter Banner](https://i.ibb.co/kVyH3CvC/3.png) 
+![Flutter Banner](https://i.ibb.co/LL9ZK9x/2.png) 
 
 ---
 
@@ -71,7 +71,7 @@ Aplicação desenvolvida para a **startup SIEX**, com objetivo de integrar o amb
 - Facilita a organização e a colaboração dentro da empresa  
 
 🖼️ **Preview da Aplicação:**  
-![Flutter Banner](https://i.ibb.co/kVyH3CvC/3.png) 
+![Flutter Banner](https://i.ibb.co/VYYMmpRq/1.png) 
 
 ---
 
