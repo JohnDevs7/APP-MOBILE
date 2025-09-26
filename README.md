@@ -1,6 +1,6 @@
 # 📱 APP FLUTTER  
 
-![Flutter Banner](https://miro.medium.com/v2/resize:fit:1200/1*Jr3NFSKTfQWRUyjblBSKeg.png)  
+![Flutter Banner](https://vtechservicesng.com/rear/pictures/flutter.png)  
 
 [![Made with Flutter](https://img.shields.io/badge/Made%20with-Flutter-02569B?style=flat-square&logo=flutter)](https://flutter.dev)  
 [![Platform](https://img.shields.io/badge/Platform-Android-green?style=flat-square&logo=android)](https://www.android.com)  
