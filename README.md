@@ -31,7 +31,7 @@ Aplicação de livros digitais de programação.
 - Ideal para autodidatas que gostam de aprender lendo  
 
 🖼️ **Preview da Aplicação:**  
-*(imagem aqui)*  
+![Flutter Banner](https://i.ibb.co/kVyH3CvC/3.png) 
 
 ---
 
@@ -44,7 +44,7 @@ Aplicação baseada em **airdrops de criptomoedas**, mas com um diferencial: o f
 - Representa inovação no contexto das **fintechs angolanas**  
 
 🖼️ **Preview da Aplicação:**  
-*(imagem aqui)*  
+![Flutter Banner](https://i.ibb.co/kVyH3CvC/3.png)  
 
 ---
 
@@ -57,7 +57,7 @@ Aplicação de **educação financeira** que ensina como gerenciar melhor as fin
 - Promove o uso consciente e estratégico do dinheiro  
 
 🖼️ **Preview da Aplicação:**  
-*(imagem aqui)*  
+![Flutter Banner](https://i.ibb.co/kVyH3CvC/3.png) 
 
 ---
 
@@ -71,7 +71,7 @@ Aplicação desenvolvida para a **startup SIEX**, com objetivo de integrar o amb
 - Facilita a organização e a colaboração dentro da empresa  
 
 🖼️ **Preview da Aplicação:**  
-*(imagem aqui)*  
+![Flutter Banner](https://i.ibb.co/kVyH3CvC/3.png) 
 
 ---
 
